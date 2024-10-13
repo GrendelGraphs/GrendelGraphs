@@ -68,8 +68,9 @@ Our custom visualization helped a marketing firm identify the most effective dig
 We’d love to hear from you! Whether you’re a business looking for data solutions or a developer with ideas to share, feel free to reach out.
 
 - **Website**: [www.grendelgraphs.com](https://www.grendelgraphs.com)
-- **Email**: [contact@grendelgraphs.com](mailto:contact@grendelgraphs.com)
-- **LinkedIn**: [GrendelGraphs](https://www.linkedin.com/company/grendelgraphs)
-- **Twitter**: [@GrendelGraphs](https://twitter.com/GrendelGraphs)
+- **Email**: [official@grendelgraphs.com](mailto:official@grendelgraphs.com)
+- **LinkedIn**: [GrendelGraphs](https://www.linkedin.com/company/grendel-graphs)
+- **Twitter**: [@GrendelGraphs](https://x.com/GrendelGraphs)
+- **Facebook**: [@GrendelGraphs](https://www.facebook.com/GrendelGraphs)
 
 **Let’s make your data work for you!**
