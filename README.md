@@ -1,6 +1,6 @@
 # Welcome to GrendelGraphs 🧠📊
 
-![GrendelGraphs Logo](path-to-your-logo.png)
+![GrendelGraphs Logo](https://ibb.co/MRRYB3C)
 
 **GrendelGraphs** is your gateway to turning raw data into meaningful, actionable insights. We specialize in making data **speak**, providing businesses with clear, visually engaging reports and dashboards to drive decision-making.
 
